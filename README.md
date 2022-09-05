@@ -1,1 +1,1 @@
-Description: Creating a Shell, basics scripts
+What each task is doing
