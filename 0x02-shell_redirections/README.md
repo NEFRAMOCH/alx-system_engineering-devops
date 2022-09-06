@@ -1,1 +1,0 @@
-Function of each script
